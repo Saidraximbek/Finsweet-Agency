@@ -1,0 +1,15 @@
+
+
+:root {
+    --body--fs: 1.6rem;
+    --body-lh: 1.5;
+    --body-bc: #ffffff;
+    --ff: 'Poppins';
+    --primary-bg-color: #232536; 
+    --primary-text-color: #FFFFFF; 
+    --nav-link-color: #7C7C89; 
+    --active-link-color: #FDC221; 
+    --highlight-color: #FFA155; 
+    --footer-bc: #FFE6D2;
+    --black-color: #000000;
+}
